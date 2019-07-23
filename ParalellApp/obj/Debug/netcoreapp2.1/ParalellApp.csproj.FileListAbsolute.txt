@@ -1,0 +1,11 @@
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\bin\Debug\netcoreapp2.1\ParalellApp.deps.json
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\bin\Debug\netcoreapp2.1\ParalellApp.runtimeconfig.json
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\bin\Debug\netcoreapp2.1\ParalellApp.runtimeconfig.dev.json
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\bin\Debug\netcoreapp2.1\ParalellApp.dll
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\bin\Debug\netcoreapp2.1\ParalellApp.pdb
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.csprojAssemblyReference.cache
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.csproj.CoreCompileInputs.cache
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.AssemblyInfoInputs.cache
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.AssemblyInfo.cs
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.dll
+C:\Users\sagva\source\repos\ParalellApp\ParalellApp\obj\Debug\netcoreapp2.1\ParalellApp.pdb
